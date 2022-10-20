@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to top right, rgb(255, 251, 32),rgb(231, 19, 19));
+    background-attachment: fixed;
+}
+
+.TituloP {
+    text-align: center;
+    font-size: 48px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 16px;
+    font-family: 'Beau Rivage', cursive;
+}
