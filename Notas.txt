@@ -1,1 +1,3 @@
 NICO: creo index basico
+THOMAS: Use comando clone, se creo la estructura basica de pagina noticia1,se creo una nueva carpeta
+	llamada imagenes futbol.
