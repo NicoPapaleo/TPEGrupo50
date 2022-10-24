@@ -11,3 +11,10 @@ body {
     padding: 16px;
     font-family: 'Beau Rivage', cursive;
 }
+.subtitulo {
+    text-align: center;
+    background-color: #CD1313;
+    border-radius: 2px;
+    width: 500px;
+    color: black;
+}
