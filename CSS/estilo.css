@@ -6,15 +6,34 @@ body {
 .TituloP {
     text-align: center;
     font-size: 48px;
-    background-color: #ffffff;
+    background-image: linear-gradient(to top left, rgb(214, 165, 32),rgb(136, 230, 15));
     border-radius: 5px;
     padding: 16px;
     font-family: 'Beau Rivage', cursive;
 }
 .subtitulo {
     text-align: center;
-    background-color: #CD1313;
+    background-color: #beb424;
     border-radius: 2px;
     width: 500px;
     color: black;
+}
+a {
+    /*background-color: rgb(255, 255, 255);*/
+    text-decoration-color: rgb(0, 0, 0);
+}
+img{
+    display: flex;
+    width: 515px;
+    display: inline;
+    margin: auto;
+    border-radius: 5px;
+    border: solid black 1px;
+}
+.titulo {
+    font-size: 32px;
+    text-align: center;
+    background-color: #371C8D;
+    border-radius: 2px;
+    text-transform: capitalize;
 }
